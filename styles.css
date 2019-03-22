@@ -1,0 +1,141 @@
+body {
+    width:800px;
+    margin: 0px auto;
+}
+header {
+height: 100px;
+}
+.border {
+background: repeating-linear-gradient(
+45deg,
+white,
+white 2px,
+lightgrey 2px,
+lightgrey 4px
+);
+height: 20px;
+}
+.floatL {
+    float: left;
+    width: 70%;
+    height: 100%;
+}
+.floatR {
+    float: right;
+    margin-top: 35px;
+}
+.floatL img {
+    margin-top: 20px;
+    float: left;
+}
+.pro {
+    height: 100%;
+    width: 50px;
+}
+div.logoA {
+    
+    font-family: 'Yellowtail', cursive;
+    font-size: 30px;
+    height: 10%;
+    margin-left: 50px;
+    margin-top: 0px;
+}
+.navA {
+    display: inline-block;
+    margin-right: 10px;
+}
+.navB {
+    display: inline-block;
+}
+.title {
+    height: 100px;
+} 
+ .up {
+    margin-top: 50px;
+    font-size: 45px;
+}
+.down {
+    width: 275px;
+    color: #abafb5;
+    background-color: ghostwhite;
+}
+.side {
+    float: right;
+    font-size: 15px;
+    background-color: ghostwhite;
+    color: #abafb5;
+}
+.img {
+    width: 100%;
+}
+
+section.checkbox {
+    background-image: url(https://github.com/DeltaVCode/cr-201d3/blob/master/class-15/lab/lab-assets/list-bg.png?raw=true);
+    height: 300px;
+    background-repeat: no-repeat;
+    margin-bottom: 50px;
+}
+
+.logoB {
+    color: #abafb5;
+    background-color: ghostwhite;
+}
+
+p {
+    background-color: ghostwhite;
+    color: #666;
+    font-size: 20px;
+}
+
+input {
+    display: inline-block;
+}
+
+ul {
+    float: left;
+    list-style: none;
+    margin: 20px 40px;
+    font-size: 18px;
+}
+
+footer {
+    text-align: center;
+    color: #666;
+}
+
+img.girl {
+    float: left;
+    display: block;
+}
+.bio {
+    max-width: 70%;
+    float: left;
+    display: block;
+}
+.bio h2 {
+    margin: 0;
+}
+.bio p {
+    margin-top: -5px;
+    margin-left: 5px; 
+}
+.tinyImg{
+    display: block;
+    margin: 30px auto;
+    clear: both;
+    background-color: white;
+    padding: 0px 20px;
+}
+button {
+    margin-top: 10px;
+    float: right;
+    background-color: #bc7058;
+    padding: 10px 20px;
+    display: block;
+}
+
+.foot {
+    border-top: 1px solid lightgray;
+    margin-top: -47px;
+    padding-top: 50px;
+}
